@@ -75,6 +75,8 @@ if (document.querySelectorAll('.input-group').length != 0) {
   }));
 }
 
+
+
 // Fixed Plugin
 if (document.querySelector('.fixed-plugin')) {
   var fixedPlugin = document.querySelector('.fixed-plugin');
