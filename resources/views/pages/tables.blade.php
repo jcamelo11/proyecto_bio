@@ -481,7 +481,7 @@
                     <h6 class="mb-0">Payment Method</h6>
                   </div>
                   <div class="col-6 text-end">
-                    <a class="btn bg-gradient-success mb-0" href="javascript:;"><i class="fas fa-plus"></i>&nbsp;&nbsp;Agregar ave</a>
+                    <a class="btn btn-success mb-0" href="javascript:;"><i class="fas fa-plus"></i>&nbsp;&nbsp;Agregar ave</a>
                   </div>
                 </div>
             </div>

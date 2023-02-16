@@ -1128,7 +1128,7 @@ code[class*=language-], pre[class*=language-] {
 }
 
 .ct-docs-info-icon-danger {
-  background: linear-gradient(87deg, #f5365c 0, #f56036 100%) !important;
+  background: linear-gradient(87deg, #f5365c 0, #2dce89 100%) !important;
 }
 
 .ct-docs-info-icon-warning {

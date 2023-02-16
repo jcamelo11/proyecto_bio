@@ -29,13 +29,13 @@
                 <div class="col-6">
                   <label class="form-label">Nombre común</label>
                   <div class="input">
-                    <input id="" name="" class="form-control" type="text"  placeholder="Nombre común" onfocus="focused(this)" onfocusout="defocused(this)">
+                    <input id="" name="" class="form-control" type="text" value="Admin" placeholder="Alec" onfocus="focused(this)" onfocusout="defocused(this)">
                   </div>
                 </div>
                   <div class="col-6">
                     <label class="form-label">Nombre cientifíco</label>
                     <div class="input">
-                      <input id="" name="" class="form-control" type="text"  placeholder="Nombre cientifíco" onfocus="focused(this)" onfocusout="defocused(this)">
+                      <input id="" name="" class="form-control" type="text" value="Admin" placeholder="Thompson" onfocus="focused(this)" onfocusout="defocused(this)">
                     </div>
                   </div>
               </div>
@@ -89,31 +89,31 @@
               <div class="row">
                 <div class="col-3">
                   <label class="mt-2">Antropica</label>
-                  <input class="form-control" type="number" onfocus="focused(this)" onfocusout="defocused(this)">
+                  <input class="form-control" type="number" value="555" onfocus="focused(this)" onfocusout="defocused(this)">
                 </div>
                 <div class="col-3">
                   <label class="mt-2">Acuicultura</label>
-                  <input class="form-control" type="number"  onfocus="focused(this)" onfocusout="defocused(this)">
+                  <input class="form-control" type="number" value="900" onfocus="focused(this)" onfocusout="defocused(this)">
                 </div>
                 <div class="col-3">
                   <label class="mt-2">Ganadaría</label>
-                  <input class="form-control" type="number"  onfocus="focused(this)" onfocusout="defocused(this)">
+                  <input class="form-control" type="number" value="500" onfocus="focused(this)" onfocusout="defocused(this)">
                 </div>
                 <div class="col-3">
                   <label class="mt-2">Vivero</label>
-                  <input class="form-control" type="number"  onfocus="focused(this)" onfocusout="defocused(this)">
+                  <input class="form-control" type="number" value="540" onfocus="focused(this)" onfocusout="defocused(this)">
                 </div>
                 <div class="col-4 mt-2">
                   <label class="mt-2">Esp. Menores</label>
-                  <input class="form-control" type="number"  onfocus="focused(this)" onfocusout="defocused(this)">
+                  <input class="form-control" type="number" value="550" onfocus="focused(this)" onfocusout="defocused(this)">
                 </div>
                 <div class="col-4 mt-2">
                   <label class="mt-2">Cultivo</label>
-                  <input class="form-control" type="number"  onfocus="focused(this)" onfocusout="defocused(this)">
+                  <input class="form-control" type="number" value="580" onfocus="focused(this)" onfocusout="defocused(this)">
                 </div>
                 <div class="col-4 mt-2">
                   <label class="mt-2">Bosque</label>
-                  <input class="form-control" type="number"  onfocus="focused(this)" onfocusout="defocused(this)">
+                  <input class="form-control" type="number" value="560" onfocus="focused(this)" onfocusout="defocused(this)">
                 </div>
               </div>
             </div>
